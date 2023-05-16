@@ -1,4 +1,6 @@
 # React Admin Dashboard App
+<img width="950" alt="Screenshot 2023-05-16 175846" src="https://github.com/sagarbhadauriya/syncfusion-react-dashboard/assets/72752355/4d5444e0-d1b3-43d6-a366-aab0e3e6be77">
+
 
 This repository contains the source code for a powerful React Admin Dashboard App built with the Syncfusion library. The dashboard app includes a variety of features such as theming, tables, charts, calendar, Kanban, and much more.
 
@@ -52,4 +54,3 @@ I would like to express my gratitude to the Syncfusion team for their excellent 
 
 If you have any questions or would like to connect, you can reach me at thesagarbhadauriya@gmail.com. Let's chat and discuss exciting possibilities!
 
-![Shoppy](https://i.ibb.co/W6g39w3/image.png)
